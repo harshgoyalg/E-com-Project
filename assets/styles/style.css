@@ -1,0 +1,27 @@
+div ul li a{
+    text-decoration: none;
+    color: #eeeeee; 
+}
+.feature{
+    background-color:#32e0c4;
+    }
+.footer_section{
+    background-color: #1aa6b7;
+}
+.footer_section h3{
+    text-align: left;
+    padding-left: 10px;
+}
+.footer_section h2{
+	font-size: 25px;
+	color: #ccf6c8;
+}
+.shop_by_category {
+    background-color: #7579e7;
+}
+.mission{
+    background-color: #7579e7;
+}
+*{
+ scroll-behavior: smooth;
+}
